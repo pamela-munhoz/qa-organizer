@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "qa-organizer",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:/Users/Usuario/AppData/Local/Temp/claude/C--Users-Usuario-Documents-Projetos-estrutura-QA/61781a0d-5ebb-4522-a8f9-9cf4b8652094/scratchpad/serve.js"],
+      "port": 8734
+    }
+  ]
+}
